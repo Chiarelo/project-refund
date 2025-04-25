@@ -28,12 +28,9 @@
 
 <p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
-  <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/682ddf6b-b72f-417b-a95e-bed5f2e145d1" width="800px">
+  <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/088809a2-8eef-423c-968d-16d1c95a5c59" width="800px">
 </p>
-<p align="center">📱 <b>Para Celular:</b></p>
-<p align="center">
-  <img alt="Projeto para celular" src="https://github.com/user-attachments/assets/1d35bd74-86d0-48bc-b78f-847fa6bf1069" width="300px">
-</p>
+
 
 <!-- <p align="center">📱 <b>Para Celular:</b></p>
 <p align="center">
@@ -56,7 +53,7 @@ Esse projeto foi desenvolvido utilizando:
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto com suas funcionalidades <a href="https://02-desafio-lista-compras.vercel.app/" target="_blank" style="color: #4a5dcd;">Clique Aqui</a>.
+Para acessar o projeto com suas funcionalidades <a href="" target="_blank" style="color: #4a5dcd;">Clique Aqui</a>.
 
 ## 📝 Licença
 
