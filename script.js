@@ -90,8 +90,8 @@ expenseAdd = (newExpense) => {
     updateTotals();
 
     amount.value = "";
-    expense.value = ""
-    category.value = ""
+    expense.value = "";
+    category.value = "";
 
     expense.focus();
   } catch (error) {
